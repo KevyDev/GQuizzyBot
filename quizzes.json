@@ -1,0 +1,83 @@
+{
+    "movies": [
+        {
+            "message": "Bob Esponja es",
+            "questions": [
+                "Amarillo y azul",
+                "Repartero",
+                "Amarillo",
+                "Verde y morado"
+            ],
+            "correct": 2,
+            "explanation": "Bob Esponja es amarillo."
+        },
+        {
+            "message": "El tema de J Balvin para Bob Esponja es producido por",
+            "questions": [
+                "Dj Unic",
+                "Sky Rompiendo",
+                "Tainy",
+                "Bob Marley"
+            ],
+            "correct": 2,
+            "explanation": "El tema de J Balvin para Bob Esponja es producido por Tainy."
+        },
+        {
+            "message": "Leonardo Dicaprio es el actor principal en",
+            "questions": [
+                "El Titanic",
+                "Fast And Furius 8",
+                "La Monalisa",
+                "Mary Juana a las 5 y 12"
+            ],
+            "correct": 0,
+            "explanation": "Leonardo Dicaprio es el actor principal en El Titanic."
+        }
+    ],
+    "famouses": [
+        {
+            "message": "Risto Mejidez es un",
+            "questions": [
+                "Actor",
+                "Jurado de Got Talent",
+                "No",
+                "Humano"
+            ],
+            "correct": 1,
+            "explanation": "Risto Mejidez es un jurado de Got Talent."
+        },
+        {
+            "message": "El nombre correcto es Kim",
+            "questions": [
+                "Kong",
+                "Jenner",
+                "Topiso",
+                "Kardashian"
+            ],
+            "correct": 3,
+            "explanation": "El nombre correcto es Kim Kardashian"
+        },
+        {
+            "message": "Newton era un",
+            "questions": [
+                "Metalero",
+                "Nuevo tono",
+                "Fisico",
+                "Juego de espadachines"
+            ],
+            "correct": 2,
+            "explanation": "Newtone era un fisico."
+        },
+        {
+            "message": "El nombre correcto es Benny",
+            "questions": [
+                "Tocamelo",
+                "Blanco",
+                "Negro",
+                "Tenny"
+            ],
+            "correct": 1,
+            "explanation": "El nombre correcto es Benny Blanco."
+        }
+    ]
+}
